@@ -1,3 +1,3 @@
-module github.com/imasnyper/go-iterators/cyclic_iterator
+module github.com/imasnyper/go-iterators/cyclic-iterator
 
 go 1.23.0
